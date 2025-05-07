@@ -1,0 +1,12 @@
+librosa
+pandas
+matplotlib
+numpy
+Pillow
+scikit-learn
+torch
+torchvision
+openai-whisper
+ffmpeg
+seaborn
+scikit-learn
